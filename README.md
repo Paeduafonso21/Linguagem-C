@@ -1,1 +1,1 @@
-# Linguagem-C
+# PYTHON E JS
